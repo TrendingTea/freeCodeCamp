@@ -1,3 +1,32 @@
+<div align="center">
+
+# 🏕️ The Campsite Rule: Remembering Where We Came From
+### *Pure Reciprocity, Developer Humility, and the Wisconsin Mentorship Ethos*
+
+[![Community](https://img.shields.io/badge/GLOBAL-FREECODECAMP_COMMUNITY-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://github.com/freeCodeCamp/freeCodeCamp)
+[![Ethos](https://img.shields.io/badge/ATTITUDE-HAPPY_TO_BE_HERE-39ff14?style=for-the-badge)](https://github.com/TrendingTea)
+[![Mentorship](https://img.shields.io/badge/MENTORSHIP-WISCONSIN_CAMPSITE_RULE-ff8c00?style=for-the-badge)](https://github.com/TrendingTea)
+
+</div>
+
+### 📖 The Story Behind This Fork
+
+Do you remember that late night when you wrote your very first lines of code, held your breath, hit run, and saw the screen change? That quiet spark of realization—that you can build something out of nothing—changes a human life forever.
+
+Quincy Larson and the global freeCodeCamp family did something extraordinary: they took that life-changing gift and gave it away to the entire world for free. No debt, no paywalls, no barriers. It has lifted veterans, single parents, blue-collar workers, and kids with borrowed laptops into dignified software careers across every continent.
+
+### 🍞 What We’re Offering (Our Bread)
+* **"Remember Where You Came From"**: We didn’t come to freeCodeCamp with an agenda, a sales pitch, or a demand. We came with our work boots on, happy to carry water and chop wood.
+* **TypeScript Async Challenge Refinements**: We quietly submitted surgical bug fixes and test runner improvements to asynchronous promise challenges, ensuring that when a student is studying at 2:00 AM, the compiler gives them clear, empathetic, human guidance rather than frustrating red errors.
+
+### 🎯 Our Ideal Interest & Long-Term Dream
+No matter how many advanced doctoral degrees we hold, or how complex our enterprise architectures become, we will always maintain a **beginner’s mind, a "happy to be here" spirit, and a lifelong commitment to leave the open-source campsite cleaner than we found it.**
+
+---
+*Below is the original upstream documentation for freeCodeCamp.org.*
+
+---
+
 [![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
